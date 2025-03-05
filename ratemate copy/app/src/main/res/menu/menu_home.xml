@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Profile menu item -->
+    <item
+        android:id="@+id/nav_profile"
+        android:title="@string/Profile"
+        android:icon="@drawable/ic_profile"/>
+
+    <!-- Nearby Restaurants menu item -->
+    <item
+        android:id="@+id/nav_restaurants_near_me"
+        android:title="@string/Restaurants_near_me"
+        android:icon="@drawable/ic_resturant"
+        />
+
+    <item
+        android:id="@+id/nav_colleges_near_me"
+        android:title="@string/Colleges_near_me"
+        android:icon="@drawable/ic_resturant"
+        />
+
+    <item
+        android:id="@+id/nav_gardens_near_me"
+        android:title="@string/Gardens_near_me"
+        android:icon="@drawable/ic_resturant"
+        />
+
+    <item
+        android:id="@+id/nav_lodges_near_me"
+        android:title="@string/Lodges_near_me"
+        android:icon="@drawable/ic_resturant"
+        />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="@string/logout"
+        android:icon="@drawable/ic_logout"/>
+
+
+
+</menu>
