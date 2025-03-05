@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ratemate</string>
+    <string name="app_logo">AppLogo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="sign_up">sign_up</string>
+    <string name="SignUp">signup</string>
+    <string name="welcome_to_ratemate">Welcome to RateMate!</string>
+    <string name="hotel_location">Lat: %1$.6f, Lon: %2$.6f</string>
+    <string name="live_location">Live Location</string>
+    <string name="restaurants_near_me">Restaurants Near Me</string>
+    <string name="profile">Profile</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="ratemate">RateMate</string>
+    <string name="Live_location">Live Location</string>
+    <string name="Profile">Profile</string>
+    <string name="Restaurants_near_me">Restaurants Near Me</string>
+    <string name="Colleges_near_me">Colleges Near Me</string>
+    <string name="Gardens_near_me">Gardens Near Me</string>
+    <string name="Lodges_near_me">Lodges Near Me</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+
+</resources>
