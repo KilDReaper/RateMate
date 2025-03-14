@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030937041938",
+    "project_id": "ratemate-4adcf",
+    "storage_bucket": "ratemate-4adcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030937041938:android:021fbe596278e841584ccb",
+        "android_client_info": {
+          "package_name": "com.example.ratemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeg8QaEcMRvFUy5ZLxEfLuT3lpq1mXmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
